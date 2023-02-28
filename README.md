@@ -1,5 +1,5 @@
 # Lembretes App
-## App de notas/lembretes desenvolvido com HTML, CSS e JavaScript.
+## App de notas/lembretes desenvolvido em HTML, CSS e JavaScript.
 ## Para adicionar uma nova nota basta clicar no ícone "+" e, para excluir, dar duplo clique sobre a nota adicionada.
 
 <div align="center">

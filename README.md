@@ -3,7 +3,7 @@
 
 <div align="center">
 
-![gif]()
+![gif](https://github.com/thayg0r/lembretes-app/blob/main/lembretes.gif)
 
 </div>
 
